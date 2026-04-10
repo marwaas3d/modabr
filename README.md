@@ -1,5 +1,5 @@
 # 💳 Payment Dashboard Website
-DEMO: https://marwaas3d.github.io/modabr/https://marwaas3d.github.io/modabr/
+DEMO: https://marwaas3d.github.io/modabr/
 
 A modern and responsive payment dashboard built with Angular, featuring clean UI, smooth animations, and well-structured components.
 
